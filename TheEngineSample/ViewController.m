@@ -1370,7 +1370,7 @@ static NSString * const ID_NAP = @"nap";
 
 - (IBAction)linkToSleepphones:(UIButton *)selectedButton
 {
-    [[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"https://www.sleepphones.com/affiliate/33254/"]];
+    [[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"https://www.sleepphones.com/?aff=69"]];
 }
 
 
